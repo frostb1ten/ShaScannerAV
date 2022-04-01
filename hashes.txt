@@ -1,6 +1,11 @@
 #Testing_ShaScanner
 c3de774eb77d172fb6fe5f2f04ad7a9fd278db8549be6c6ec45c0a572464dc4b
 
+
+#RevengeRAT 
+f6b2c58f9846adcb295edd3c8a5beaec31fff3bc98f6503d04e95be3f9f072e8
+
+
 #ua_wipers
 0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da
 a259e9b0acf375a8bef8dbc27a8a1996ee02a56889cba07ef58c49185ab033ec
